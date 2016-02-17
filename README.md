@@ -1,4 +1,4 @@
 # Fan-Control-System
-Tope, Villo, Santte
-Topin muokkaama
-Santeri tarjoo viikonloppuna
+Tope, Villo, Santte, Svetlane
+
+Tänne vois pistää ideoita kun niitä iskee päähän.
