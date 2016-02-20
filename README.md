@@ -1,4 +1,4 @@
 # Fan-Control-System
-Tope, Villo, Santte, Svetlane
+Topi, Ville, Santeri, Svetlana
 
 Tänne vois pistää ideoita kun niitä keksitte.
